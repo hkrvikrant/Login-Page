@@ -1,0 +1,10 @@
+E:\consol\consol\login_page\login_page\bin\Debug\login_page.exe.config
+E:\consol\consol\login_page\login_page\bin\Debug\login_page.exe
+E:\consol\consol\login_page\login_page\bin\Debug\login_page.pdb
+E:\consol\consol\login_page\login_page\obj\Debug\login_page.csprojResolveAssemblyReference.cache
+E:\consol\consol\login_page\login_page\obj\Debug\login_page.exe
+E:\consol\consol\login_page\login_page\obj\Debug\login_page.pdb
+E:\SOFTWARE\project\DOT NET\my_project\my_project\login_page\login_page\bin\Debug\login_page.exe.config
+E:\SOFTWARE\project\DOT NET\my_project\my_project\login_page\login_page\obj\Debug\login_page.exe
+E:\SOFTWARE\project\DOT NET\my_project\my_project\login_page\login_page\obj\Debug\login_page.pdb
+E:\SOFTWARE\project\DOT NET\my_project\my_project\login_page\login_page\obj\Debug\login_page.csprojResolveAssemblyReference.cache
